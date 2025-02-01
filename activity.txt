@@ -46,3 +46,4 @@ Simulated activity: 2025-01-31 - 1
 Simulated activity: 2025-01-31 - 2
 Simulated activity: 2025-01-31 - 3
 Simulated activity: 2025-01-31 - 4
+Simulated activity: 2025-02-01 - 1
